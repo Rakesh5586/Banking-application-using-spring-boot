@@ -1,0 +1,1 @@
+<h1 style="color: blue;">New Account Added Successfully..</h1>
